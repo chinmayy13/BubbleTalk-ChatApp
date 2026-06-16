@@ -72,5 +72,4 @@ Ensure both the backend and frontend servers are running. The frontend will typi
 ## Author 
 ### Chinmay
 GitHub Profile: [https://github.com/chinmayy13](https://github.com/chinmayy13)
-
 Gmail: chinmayykumarr@gmail.com
